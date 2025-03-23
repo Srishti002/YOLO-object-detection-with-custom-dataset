@@ -18,6 +18,6 @@ In this we are detecting objects in a room using custom dataset
     In the network itself , linear activation is used for class scores
     During post processing , softmax is applied to the scores to get probabilities.
 
-
+![](https://github.com/Srishti002/YOLO-object-detection-with-custom-dataset/blob/main/Screenshot%202025-03-23%20235753.png)
 ![](https://github.com/Srishti002/YOLO-object-detection-with-custom-dataset/blob/main/Screenshot%202025-03-23%20235835.png)
    
